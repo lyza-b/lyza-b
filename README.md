@@ -20,6 +20,8 @@ I am a front-end developer with a passion for creating visually appealing and us
 - [Project 1](link-to-project1) - Description of project 1.
 - [Project 2](link-to-project2) - Description of project 2.
 
+<a href="https://app.daily.dev/lyzabee"><img src="https://api.daily.dev/devcards/v2/6qSeS91J4BV8XxUShCbYJ.png?type=default&r=k15" width="356" alt="Ajileye Elizabeth's Dev Card"/></a>
+
 ## Get in Touch
 
 - Email: ajioluwaseun1@gmail.com
