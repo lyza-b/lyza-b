@@ -12,6 +12,7 @@ I am a front-end developer with a passion for creating visually appealing and us
 - React
 - Git
 - Responsive Web Design
+- Dart
 - Flutter
 
 ## Projects
