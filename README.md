@@ -12,8 +12,7 @@ I am a front-end developer with a passion for creating visually appealing and us
 - React
 - Git
 - Responsive Web Design
-- User Interface (UI) Design
-- User Experience (UX) Design
+- Flutter
 
 ## Projects
 
@@ -26,6 +25,7 @@ I am a front-end developer with a passion for creating visually appealing and us
 
 - Email: ajioluwaseun1@gmail.com
 - LinkedIn: [Elizabeth Ajileye](https://www.linkedin.com/in/elizabeth-ajileye-78b2a422b)
+  
 
 Feel free to reach out if you're interested in collaborating on web development projects or have any questions!
 
